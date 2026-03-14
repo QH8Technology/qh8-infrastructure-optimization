@@ -364,11 +364,26 @@ Contact: **contact@qh8technologies.com**
 🛡️ **QH8 Technologies**
 
 ---
-## 📚 Technical Library & Regional Frameworks
+---
 
-This repository serves as the **Technical Foundation** for QH8 Infrastructure Telemetry. For regional compliance, jurisdictional governance, and specific industry applications, refer to the following modules:
+## 📚 Technical Library & Regional Infrastructure Frameworks
 
-* **[Texas Infrastructure & ERCOT Compliance](https://github.com/your-username/texas-infrastructure-governance)**: Grid reliability, SB 6 readiness, and GPU cluster load governance.
-* **[North Carolina Energy & Building Code 2026](https://github.com/your-username/north-carolina-energy-compliance)**: Building performance, electrification, and HVAC modernization.
-* **[Georgia State Infrastructure & Cybersecurity](https://github.com/your-username/georgia-infrastructure-cybersecurity)**: EV charging networks, critical healthcare facilities, and breach readiness.
-* **[QH8 Official Website](https://qh8technologies.com)**: Secure telemetry ingestion and professional forensic audit requests.
+This repository provides the **technical foundation for QH8 infrastructure telemetry and operational monitoring**.
+
+For regional regulatory environments and sector-specific infrastructure applications, see the following repositories:
+
+• **Texas Infrastructure & Energy Governance**  
+https://github.com/QH8Technology/texas-infrastructure-energy-cybersecurity-qa-2026  
+Focus: ERCOT grid reliability, power quality monitoring, and large-load infrastructure governance.
+
+• **North Carolina Energy & Data Center Compliance 2026**  
+https://github.com/QH8Technology/-NORTH-CAROLINA-ENERGY-DATA-CENTER-COMPLIANCE-2026  
+Focus: building performance monitoring, electrification readiness, and commercial infrastructure operations.
+
+• **Georgia Infrastructure, Energy & Cybersecurity Framework**  
+https://github.com/QH8Technology/Georgia-State-Infrastructure-Energy-Cybersecurity-2026-Q-A  
+Focus: EV infrastructure, healthcare facilities, data centers, and infrastructure cybersecurity monitoring.
+
+• **QH8 Technologies Official Website**  
+https://qh8technologies.com  
+Infrastructure telemetry platform and operational audit services.
