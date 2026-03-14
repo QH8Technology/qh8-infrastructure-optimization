@@ -362,3 +362,13 @@ Organizations should conduct independent technical evaluation and consult qualif
 Contact: **contact@qh8technologies.com**
 
 🛡️ **QH8 Technologies**
+
+---
+## 📚 Technical Library & Regional Frameworks
+
+This repository serves as the **Technical Foundation** for QH8 Infrastructure Telemetry. For regional compliance, jurisdictional governance, and specific industry applications, refer to the following modules:
+
+* **[Texas Infrastructure & ERCOT Compliance](https://github.com/your-username/texas-infrastructure-governance)**: Grid reliability, SB 6 readiness, and GPU cluster load governance.
+* **[North Carolina Energy & Building Code 2026](https://github.com/your-username/north-carolina-energy-compliance)**: Building performance, electrification, and HVAC modernization.
+* **[Georgia State Infrastructure & Cybersecurity](https://github.com/your-username/georgia-infrastructure-cybersecurity)**: EV charging networks, critical healthcare facilities, and breach readiness.
+* **[QH8 Official Website](https://qh8technologies.com)**: Secure telemetry ingestion and professional forensic audit requests.
